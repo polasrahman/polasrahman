@@ -37,7 +37,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Portfolio
 - [🌐 My Website](https://polasrahman.com)
 
 
