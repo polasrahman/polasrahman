@@ -14,15 +14,15 @@
 
 
 ## 🛠 My Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=php,laravel,wordpress,js,jquery,react,mysql,nodejs,vue,vite,tailwind,webflow,webpack,postman,css,sass,bootstrap,vscode,html,git,github,gitlab,githubactions,nginx,&theme=light&perline=8)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,wordpress,js,jquery,react,mysql,nodejs,vue,vite,tailwind,webflow,webpack,postman,css,sass,bootstrap,vscode,html,git,github,gitlab,githubactions,nginx,&theme=light&perline=8)](https://polasrahman.com)
 
 
 ## 💻 Tools I Use:
-![My Skills](https://skillicons.dev/icons?i=vscode,sublime,phpstorm,figma,xd,ps&theme=light)
+[![My Skills](https://skillicons.dev/icons?i=vscode,sublime,phpstorm,figma,xd,ps&theme=light)](https://polasrahman.com)
 
 
 ## 💻 OS Experience:
-![My Skills](https://skillicons.dev/icons?i=windows,apple,linux,ubuntu,debian,kali,raspberrypi&theme=light)
+[![My Skills](https://skillicons.dev/icons?i=windows,apple,linux,ubuntu,debian,kali,raspberrypi&theme=light)](https://polasrahman.com)
 
 ---
 
