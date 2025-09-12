@@ -14,7 +14,7 @@
 
 
 ## 🛠 My Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,wordpress,js,jquery,react,mysql,nodejs,vue,vite,tailwind,webflow,webpack,postman,css,sass,bootstrap,vscode,html,git,github,gitlab,githubactions,nginx,&theme=light&perline=8)](https://polasrahman.com)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,wordpress,js,jquery,react,mysql,nodejs,vue,vite,tailwind,webflow,webpack,postman,css,sass,bootstrap,vscode,html,git,github,gitlab,githubactions,nginx,&theme=light&perline=12)](https://polasrahman.com)
 
 
 ## 💻 Tools I Use:
