@@ -14,7 +14,7 @@
 
 
 ## 🛠 My Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,wordpress,js,jquery,react,mysql,nodejs,vue,vite,tailwind,webflow,webpack,postman,css,sass,bootstrap,vscode,html,git,github,gitlab,githubactions,nginx,&theme=light&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,wordpress,js,jquery,react,mysql,nodejs,vue,vite,tailwind,webflow,webpack,postman,css,sass,bootstrap,vscode,html,git,github,gitlab,githubactions,nginx,&theme=light&perline=8)](https://skillicons.dev)
 
 
 ## 💻 Tools I Use:
