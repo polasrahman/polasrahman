@@ -10,7 +10,7 @@
 - 🔭 I’m currently working at **Home** as a Remote Developer
 - 🌱 Exploring **AI tools, automation, and full-stack tech**  
 - 🎯 Goal: Building scalable web apps & AI-powered solutions  
-- ⚡ Fun fact: I can debug code faster with coffee ☕ 
+- ⚡ Fun fact: I can debug code faster with coffee ☕
 
 
 ## 🛠 My Tech Stack:
@@ -34,6 +34,10 @@
 
 ## 🔥 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=polasrahman&theme=react-dark)
+
+![GitHub Snake Light](https://github.com/polasrahman/polasrahman/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/polasrahman/polasrahman/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
 ---
 
