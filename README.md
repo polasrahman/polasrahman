@@ -7,10 +7,14 @@
 
 
 ## 🚀 About Me
+- 🤖 10+ years of experience in **Web Development**
 - 🔭 I’m currently working at **Home** as a Remote Developer
+- ❇️ Specialized in **WordPress, WooCommerce, Shopify & Full Stack projects**
 - 🌱 Exploring **AI tools, automation, and full-stack tech**  
-- 🎯 Goal: Building scalable web apps & AI-powered solutions  
-- ⚡ Fun fact: I can debug code faster with coffee ☕
+- 🎯 Goal: Building scalable web apps & AI-powered solutions
+- 🔹 Worked with clients worldwide (Upwork, Fiverr, MonsterClaw LLC)
+- ♻️ Passionate about **tech gadgets, gaming & automation**
+- ⚡  Fun fact: I can debug code faster with coffee ☕
 
 
 ## 🛠 My Tech Stack:
