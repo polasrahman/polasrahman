@@ -10,7 +10,7 @@
 - 🔭 I’m currently working at **Home** as a Remote Developer
 - 🌱 Exploring **AI tools, automation, and full-stack tech**  
 - 🎯 Goal: Building scalable web apps & AI-powered solutions  
-- ⚡ Fun fact: I can debug code faster with coffee ☕
+- ⚡ Fun fact: I can debug code faster with coffee ☕ 
 
 
 ## 🛠 My Tech Stack:
