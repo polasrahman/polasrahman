@@ -2,8 +2,7 @@
 
 💻 **Full Stack Developer** | **WordPress & Shopify Specialist**  
 ⚡ Love React, PHP, Laravel & WordPress | Exploring AI & Automation  
-🌍 Remote Developer from Bangladesh | Gamer 🎮  
-
+🌍 Remote Developer from Bangladesh | Gamer 🎮
 
 
 ## 🚀 About Me
